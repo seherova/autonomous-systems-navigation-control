@@ -205,7 +205,7 @@ r = \sqrt{x^2+y^2}
 $$
 
 $$
-\theta = \operatorname{atan2}(y,x)
+\theta = \mathrm{atan2}(y,x)
 $$
 
 An **Extended Kalman Filter (EKF)** is therefore implemented using a measurement Jacobian.
